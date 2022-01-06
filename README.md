@@ -1,3 +1,3 @@
-# newpath
+# data science capstone
 
-## Ok
+## all notebboks for ds capstone
